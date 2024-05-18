@@ -1,0 +1,12 @@
+C:\Users\WrathRider\Downloads\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.AssemblyReference.cache
+C:\Users\WrathRider\Downloads\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.CoreCompileInputs.cache
+C:\Users\WrathRider\Downloads\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.dll
+D:\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.AssemblyReference.cache
+D:\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.CoreCompileInputs.cache
+D:\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.dll
+D:\Binaries\Quasar-V1\Quasar-V1\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.CoreCompileInputs.cache
+D:\Binaries\Quasar-V1\Quasar-V1\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.dll
+D:\Binaries\Quasar-V1\Quasar-V1\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.AssemblyReference.cache
+D:\Binaries\Quasar-V1\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.AssemblyReference.cache
+D:\Binaries\Quasar-V1\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.csproj.CoreCompileInputs.cache
+D:\Binaries\Quasar-V1\Quasar-master\Plugins\PlugFileManager\obj\Release\PlugFileManager.dll

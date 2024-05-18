@@ -1,0 +1,9 @@
+D:\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.csproj.CoreCompileInputs.cache
+D:\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.dll
+D:\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.csproj.AssemblyReference.cache
+D:\Binaries\Quasar-V1\Quasar-V1\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.csproj.CoreCompileInputs.cache
+D:\Binaries\Quasar-V1\Quasar-V1\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.dll
+D:\Binaries\Quasar-V1\Quasar-V1\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.csproj.AssemblyReference.cache
+D:\Binaries\Quasar-V1\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.csproj.AssemblyReference.cache
+D:\Binaries\Quasar-V1\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.csproj.CoreCompileInputs.cache
+D:\Binaries\Quasar-V1\Quasar-master\Plugins\PluginHVNC\obj\Release\PluginHVNC.dll
